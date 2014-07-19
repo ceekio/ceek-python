@@ -2,4 +2,4 @@
 
 __author__ = 'team@ceek.io'
 __email__ = 'team@ceek.io'
-__version__ = '0.1.1'
+__version__ = '0.1.3'

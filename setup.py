@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='ceek',
-    version='0.1.1',
+    version='0.1.3',
     description='ceek python client',
     long_description=readme + '\n\n' + history,
     author='team@ceek.io',

@@ -14,9 +14,6 @@ ceek
 
 ceek python client
 
-* Free software: BSD license
-* Documentation: http://ceek.readthedocs.org.
-
 Features
 --------
 
